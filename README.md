@@ -25,18 +25,23 @@ See the "LICENSE" (LICENSE) file for license details.
 Installation
 
 Install dependencies:
-
+```
 pkg update -y && pkg install python -y
 python -m pip install aiohttp
 
+```
 Clone repository:
 
-git clone YOUR_REPOSITORY_URL
+```
+git clone https://github.com/Speed494/sms-bomber
 
+```
 Enter project directory:
-
+```
 cd My-Python-Tool
-
+```
 Run the tool:
-
+```
 python main.py
+
+```
